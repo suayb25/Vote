@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "384488603364",
+    "firebase_url": "https://vote-a0e5a.firebaseio.com",
+    "project_id": "vote-a0e5a",
+    "storage_bucket": "vote-a0e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384488603364:android:f880c745bf88c6ec",
+        "android_client_info": {
+          "package_name": "com.company.talha.vote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384488603364-0507cqgdkf6bvo5rs652er26bkkjkuii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.talha.vote",
+            "certificate_hash": "c8cb908601a03f9a1e0f826023fe6da505976aa6"
+          }
+        },
+        {
+          "client_id": "384488603364-bjmpl4k7kk5gsr4n8i6b1peb98qmhg7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VWnEYn33q7giT6zUUeOmonhvLVvysy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384488603364-bjmpl4k7kk5gsr4n8i6b1peb98qmhg7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
